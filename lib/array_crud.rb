@@ -25,12 +25,15 @@ def jelly_loves = my_loves.pop
   
 end
 
-def peanut
+def peanut = my_loves.shift 
+
+p my_loves
   
 end
 
-def retrieve_element_from_index(array, index_number)
-  
+def my_loves.index("nathan")
+
+p my_loves
 end
 
 def retrieve_first_element_from_array(array)
