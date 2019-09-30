@@ -51,5 +51,8 @@ end
 
 def my_loves[0]
   
+my_loves[1]
+
+my_loves[2]  
 
 end
