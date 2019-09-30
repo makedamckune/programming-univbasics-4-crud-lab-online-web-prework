@@ -2,12 +2,13 @@ def the_trust_i_have_for_others = []
 end
 
 def my_loves = ["peanut", "butter", "nathan"]
+  p 
 end
 
 def my_loves << "jelly"
 end
 
-def my_loves.unshift()
+def my_loves.unshift("grape")
   
 end
 
