@@ -17,7 +17,7 @@ p my_loves
   
 end
 
-def my_loves.pop()
+def my_loves.pop
   
 end
 
