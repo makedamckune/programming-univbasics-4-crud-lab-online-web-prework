@@ -18,6 +18,7 @@ p my_loves
 end
 
 def my_loves.pop
+  jelly_loves
   
 end
 
