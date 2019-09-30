@@ -17,7 +17,7 @@ p my_loves
   
 end
 
-def remove_element_from_end_of_array(array)
+def my_loves.pop()
   
 end
 
