@@ -34,14 +34,19 @@ end
 def my_loves.index("nathan")
 
 p my_loves
+
 end
 
-def retrieve_first_element_from_array(array)
+def my_loves.index[0]
   
+p my_loves
+
 end
 
-def retrieve_last_element_from_array(array)
-  
+def my_loves.index[-1]
+
+p my_loves
+
 end
 
 def update_element_from_index(array, index_number, element)
