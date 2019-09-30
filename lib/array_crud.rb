@@ -25,7 +25,7 @@ def jelly_loves = my_loves.pop
   
 end
 
-def 
+def peanut
   
 end
 
