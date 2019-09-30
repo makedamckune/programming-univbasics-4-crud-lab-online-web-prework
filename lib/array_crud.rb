@@ -19,6 +19,9 @@ end
 
 def jelly_loves = my_loves.pop
  
+ p my_loves
+ 
+ p jelly_loves
   
 end
 
