@@ -25,7 +25,7 @@ def jelly_loves = my_loves.pop
   
 end
 
-def remove_element_from_start_of_array(array)
+def 
   
 end
 
