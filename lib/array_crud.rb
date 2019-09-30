@@ -2,7 +2,7 @@ def the_trust_i_have_for_others = []
 end
 
 def my_loves = ["peanut", "butter", "nathan"]
-  p 
+  p my_loves
 end
 
 def my_loves << "jelly"
