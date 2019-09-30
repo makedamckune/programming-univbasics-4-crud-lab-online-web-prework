@@ -1,14 +1,10 @@
-def create_an_empty_array
-  the_love_i_have_for
-  
+def the_trust_i_have_for_others = []
 end
 
-def create_an_array
-  
+def my_loves = ["peanut", "butter", "nathan"]
 end
 
-def add_element_to_end_of_array(array, element)
-  
+def my_loves << "jelly"
 end
 
 def add_element_to_start_of_array(array, element)
