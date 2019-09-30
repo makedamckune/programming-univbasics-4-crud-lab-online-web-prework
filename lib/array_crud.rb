@@ -17,8 +17,8 @@ p my_loves
   
 end
 
-def my_loves.pop
-  jelly_loves
+def jelly_loves = my_loves.pop
+ 
   
 end
 
